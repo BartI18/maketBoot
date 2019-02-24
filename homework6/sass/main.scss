@@ -1,0 +1,25 @@
+
+.image {
+  position: relative;
+  width: 100%;
+}
+
+.cardHover:hover{
+  background-color: #00C8C8;
+}
+
+.slogan {
+  position: absolute;
+  top: 40%;
+  left: 0;
+  width: 100%;
+  letter-spacing: 0.1em;
+}
+
+.subSlogan {
+  position: absolute;
+  top: 53%;
+  left: 0;
+  width: 100%;
+  letter-spacing: 0.2em;
+}
